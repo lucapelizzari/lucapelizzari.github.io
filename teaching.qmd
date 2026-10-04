@@ -8,7 +8,6 @@ title: "Teaching"
 
 - **Statistical learning with high-dimensional data**  
   University of Vienna.  
-  Information for enrolled students: [Moodle](PASTE_MOODLE_LINK_HERE).
 
 ## Upcoming teaching
 
