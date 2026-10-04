@@ -1,0 +1,343 @@
+/* -----------------------------
+   Global layout and typography
+------------------------------ */
+
+body {
+  line-height: 1.65;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+/* -----------------------------
+   Navbar
+------------------------------ */
+
+.navbar {
+  background: white !important;
+  border-bottom: 1px solid #eeeeee;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.navbar .container-fluid {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.navbar-title {
+  font-weight: 600;
+}
+
+/* -----------------------------
+   Homepage container
+------------------------------ */
+
+.home-container {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 3.2rem 3rem 4rem 3rem;
+}
+
+/* -----------------------------
+   Homepage intro grid
+------------------------------ */
+
+.home-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 700px) 320px;
+  column-gap: 4rem;
+  align-items: start;
+}
+
+.home-text {
+  min-width: 0;
+}
+
+.home-photo {
+  padding-top: 0.3rem;
+}
+
+.home-photo img {
+  width: 100%;
+  max-width: 320px;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* -----------------------------
+   Intro text
+------------------------------ */
+
+.intro-kicker {
+  color: #2f5bea;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.82rem;
+  font-weight: 700;
+  margin-bottom: 1.2rem;
+}
+
+.lead-text {
+  font-size: 1.08rem;
+  line-height: 1.75;
+  margin-bottom: 1.25rem;
+}
+
+.home-text p {
+  font-size: 1.05rem;
+  line-height: 1.75;
+  margin-bottom: 1.25rem;
+}
+
+/* -----------------------------
+   Profile links: Email, GitHub, etc.
+------------------------------ */
+
+.profile-links {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: nowrap !important;
+  align-items: center !important;
+  gap: 1rem !important;
+  margin-top: 1.8rem;
+  margin-bottom: 0;
+  font-size: 0.98rem;
+  white-space: nowrap;
+}
+
+.profile-links a {
+  display: inline-flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  gap: 0.35rem;
+  color: #444;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: color 0.15s ease;
+}
+
+.profile-links a:hover {
+  color: #2f5bea;
+}
+
+.profile-links i {
+  font-size: 1.05rem;
+}
+
+/* -----------------------------
+   Research tags
+------------------------------ */
+
+.research-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-top: 3.2rem;
+  margin-bottom: 4rem;
+}
+
+.research-tags span {
+  display: inline-block;
+  padding: 0.45rem 0.8rem;
+  border: 1px solid #e1e4e8;
+  border-radius: 999px;
+  background: #fafafa;
+  font-size: 0.92rem;
+  color: #444;
+}
+
+/* -----------------------------
+   New preprints heading
+------------------------------ */
+
+.new-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-top: 4.5rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid #e5e5e5;
+  width: 100%;
+}
+
+.new-heading h2,
+.new-heading h2.anchored {
+  margin: 0;
+  font-size: 1.85rem;
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+}
+
+.new-heading a {
+  font-size: 0.95rem;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+/* -----------------------------
+   Paper list
+------------------------------ */
+
+.paper-list {
+  max-width: 780px;
+}
+
+.paper-list ul {
+  padding-left: 1.4rem;
+}
+
+.paper-list li {
+  margin-bottom: 1.45rem;
+  line-height: 1.55;
+}
+
+/* -----------------------------
+   Mobile layout
+------------------------------ */
+
+@media (max-width: 900px) {
+  .home-container {
+    padding: 2.5rem 1.5rem 4rem 1.5rem;
+  }
+
+  .home-grid {
+    grid-template-columns: 1fr;
+    row-gap: 2rem;
+  }
+
+  .home-photo {
+    padding-top: 0;
+  }
+
+  .home-photo img {
+    max-width: 320px;
+  }
+
+  .profile-links {
+    flex-wrap: wrap !important;
+    gap: 1rem !important;
+  }
+
+  .navbar .container-fluid {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
+  .new-heading {
+    align-items: baseline;
+  }
+}
+
+/* Force homepage profile links into one horizontal row */
+.profile-links {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: nowrap !important;
+  align-items: center !important;
+  gap: 1.2rem !important;
+  margin-top: 1.8rem !important;
+  margin-bottom: 0 !important;
+  font-size: 1rem !important;
+  white-space: nowrap !important;
+}
+
+.profile-links a {
+  display: inline-flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  gap: 0.35rem !important;
+  color: #444 !important;
+  text-decoration: none !important;
+  white-space: nowrap !important;
+}
+
+.profile-links a:hover {
+  color: #2f5bea !important;
+}
+
+.profile-links i {
+  font-size: 1.05rem !important;
+}
+
+/* -----------------------------
+   Code page
+------------------------------ */
+
+.code-main-link {
+  margin-top: 1.2rem;
+  margin-bottom: 2.6rem;
+}
+
+.code-main-link a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: #315f8c;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.code-main-link a:hover {
+  color: #1f3d5a;
+  text-decoration: underline;
+}
+
+.code-entry {
+  margin-bottom: 2.6rem;
+}
+
+.code-entry-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1.2rem;
+  padding-bottom: 0.45rem;
+  margin-bottom: 0.8rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.code-entry-header h3 {
+  margin: 0;
+  font-size: 1.22rem;
+  line-height: 1.35;
+}
+
+.repo-link,
+.repo-link-inline {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: #315f8c;
+  text-decoration: none;
+  white-space: nowrap;
+  font-size: 0.95rem;
+}
+
+.repo-link:hover,
+.repo-link-inline:hover {
+  color: #1f3d5a;
+  text-decoration: underline;
+}
+
+.code-entry p {
+  max-width: 780px;
+  line-height: 1.65;
+}
+
+@media (max-width: 700px) {
+  .code-entry-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.4rem;
+  }
+}

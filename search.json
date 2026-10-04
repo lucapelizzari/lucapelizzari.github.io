@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "A current version of my academic CV is available here:\n  Download CV"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Polynomial Volterra processes\nwith Eduardo Abi Jaber, Christa Cuchiero, Sergio Pulido and Sara Svaluto-Ferro.\nElectronic Journal of Probability 29, 1–37.\nPrimal and dual optimal stopping with signatures\nwith Christian Bayer and John Schoenmakers.\nFinance and Stochastics 29(4), 981–1014.\nRough PDEs for local stochastic volatility models\nwith Peter Bank, Christian Bayer and Peter Friz.\nMathematical Finance 35(3), 661–681.\nPricing American options under rough volatility using signatures\nwith Christian Bayer and Jia-Jie Zhu.\nIn Modern Topics in Stochastic Analysis and Applications, in honour of Terry Lyons’ 70th birthday, 375–398.\nLocal regression on path spaces with signature metrics\nwith Christian Bayer and Davit Gogolashvili.\nProceedings of the 29th International Conference on Artificial Intelligence and Statistics."
+  },
+  {
+    "objectID": "publications.html#published-and-accepted-papers",
+    "href": "publications.html#published-and-accepted-papers",
+    "title": "Publications",
+    "section": "",
+    "text": "Polynomial Volterra processes\nwith Eduardo Abi Jaber, Christa Cuchiero, Sergio Pulido and Sara Svaluto-Ferro.\nElectronic Journal of Probability 29, 1–37.\nPrimal and dual optimal stopping with signatures\nwith Christian Bayer and John Schoenmakers.\nFinance and Stochastics 29(4), 981–1014.\nRough PDEs for local stochastic volatility models\nwith Peter Bank, Christian Bayer and Peter Friz.\nMathematical Finance 35(3), 661–681.\nPricing American options under rough volatility using signatures\nwith Christian Bayer and Jia-Jie Zhu.\nIn Modern Topics in Stochastic Analysis and Applications, in honour of Terry Lyons’ 70th birthday, 375–398.\nLocal regression on path spaces with signature metrics\nwith Christian Bayer and Davit Gogolashvili.\nProceedings of the 29th International Conference on Artificial Intelligence and Statistics."
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "Preprints",
+    "text": "Preprints\n\nExpected signatures via partial integration, coordinate change and symmetrization\nwith Paul Hager.\narXiv:2607.29534.\nThe Volterra Signature\nwith Paul Hager, Fabian Harang and Samy Tindel.\narXiv:2603.04525.\nComputational aspects of the Volterra Signature\nwith Paul Hager, Fabian Harang and Samy Tindel.\narXiv:2605.18406."
+  },
+  {
+    "objectID": "publications.html#phd-thesis",
+    "href": "publications.html#phd-thesis",
+    "title": "Publications",
+    "section": "PhD thesis",
+    "text": "PhD thesis\n\nTopics in rough and stochastic analysis with applications in finance\nsupervised by Christian Bayer and Peter Friz."
+  },
+  {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "Code",
+    "section": "",
+    "text": "Code accompanying my research papers and numerical experiments can be found on   GitHub .\n\n\n\n\nStochastic control with expected signatures\n\n  Repository \n\nImplementation of the expected signature formula via coordinate change. An illustration solving the optimal tracking of fractional Brownian motion is presented.\n\n\n\n\nTime-series learning with Volterra signatures\n\n  Repository \n\nRegression and classification experiments with real-world data and time-series features built from the Volterra signature. The code relies on the JAX-based Python package tensordev, see  tensordev, which implements algorithms from the accompanying technical paper on computational aspects of the Volterra signature.\n\n\n\n\nRough PDEs for European options and Greeks\n\n  Repository \n\nCode for pricing European options and computing Greeks in general local stochastic volatility models via a finite-difference implementation of the rough PDE pricing method.\n\n\n\n\nOptimal stopping with signatures\n\n  Repository \n\nImplementation of primal and dual algorithms for solving non-Markovian optimal stopping problems with path signatures. The examples include stopping problems for fractional Brownian motion, American option pricing under rough-volatility models such as rough Bergomi and rough Heston, and extensions to deep and kernel learning.\n\n\n\n\nLocal regression with signatures\n\n  Repository \n\nLocal kernel regression and classification on path space using signature-based distances. The repository contains implementations for path-valued regression and classification tasks, including examples for time series, SDE learning, and path-dependent option pricing."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Statistical learning with high-dimensional data\nUniversity of Vienna.\nInformation for enrolled students: Moodle."
+  },
+  {
+    "objectID": "teaching.html#current-teaching",
+    "href": "teaching.html#current-teaching",
+    "title": "Teaching",
+    "section": "",
+    "text": "Statistical learning with high-dimensional data\nUniversity of Vienna.\nInformation for enrolled students: Moodle."
+  },
+  {
+    "objectID": "teaching.html#upcoming-teaching",
+    "href": "teaching.html#upcoming-teaching",
+    "title": "Teaching",
+    "section": "Upcoming teaching",
+    "text": "Upcoming teaching\n\nSummer term 2027\n\nStochastic Analysis\nUniversity of Vienna.\nMathematical Optimization\nUniversity of Vienna.\njointly with Anna Kwossek."
+  },
+  {
+    "objectID": "teaching.html#past-teaching",
+    "href": "teaching.html#past-teaching",
+    "title": "Teaching",
+    "section": "Past teaching",
+    "text": "Past teaching\n\nSummer term 2026\n\nUE Wahrscheinlichkeitsrechnung\nUniversity of Vienna.\n\n\n\nWinter term 2025/26\n\nUE Statistik 1\nUniversity of Vienna.\n\n\n\nWinter term 2024/25\n\nVersicherungsmathematik\nUniversity of Vienna.\nTeaching assistant; lecturer: Lukas Lüthrath.\n\n\n\nSummer term 2022\n\nProbability Theory & Statistics\nETH Zurich.\nTeaching assistant; lecturer: Vincent Tassion.\n\n\n\nWinter term 2021/22\n\nProbability Theory\nETH Zurich.\nTeaching assistant; lecturer: Wendelin Werner.\n\n\n\nWinter term 2020/21\n\nLineare Algebra für Naturwissenschaftler\nUniversity of Zurich.\nTeaching assistant; lecturer: Jean Bertoin."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Volterra signatures with applications in computational finance\nICCM 2026, Oxford, UK, September 1-4."
+  },
+  {
+    "objectID": "talks.html#planned-talks",
+    "href": "talks.html#planned-talks",
+    "title": "Talks",
+    "section": "",
+    "text": "Volterra signatures with applications in computational finance\nICCM 2026, Oxford, UK, September 1-4."
+  },
+  {
+    "objectID": "talks.html#previous-talks",
+    "href": "talks.html#previous-talks",
+    "title": "Talks",
+    "section": "Previous talks",
+    "text": "Previous talks\n\n2026\n\nThe Volterra signature\n\nConference “Path-dependent optimal control and applications in finance and economics”, Berlin, Germany, March 2026.\nBachelier World Congress, Bologna, Italy, June 2026.\n\nRough PDEs for local stochastic volatility models\n\nAnnual PREMIA meeting, Paris, France, May 2026.\n\n\n\n\n2025\n\nSignature methods for American option pricing\n\nSIAM Conference on Financial Mathematics and Engineering, Miami, USA, July 2025.\nAnnual PREMIA Meeting, Paris, France, June 2025.\n\nExpected signatures for augmented processes\n21st Oxford-Berlin Young Researchers Meeting on Applied Stochastic Analysis, Berlin, Germany, July 2025.\nThe Volterra signature\n\nSignatures in 1 and 2 Dimensions, Oslo, Norway, June 2025.\nPhD Seminar: Advanced Stochastic Modeling, Vienna, Austria, October 2025.\n\nMoments of Volterra processes and signatures\nPhD Seminar: Advanced Stochastic Modeling, Vienna, Austria, May 2025.\nWhat is rough analysis?\nMATH+ What is…? Seminar, Berlin, Germany, January 2025.\n\n\n\n2024\n\nNon-Markovian optimal stopping with signatures\n\nDirections in Rough Analysis, Oberwolfach, Germany, November 2024.\n18th Oxford-Berlin Young Researchers Meeting on Applied Stochastic Analysis, Oxford, United Kingdom, January 2024.\n\nRough path theory for financial modelling\nIRTG Student Seminar, Berlin, Germany, July 2024.\nRough PDEs for local stochastic volatility\n-Klagenfurt-Berlin Meeting, Klagenfurt, Austria, June 2024. -Recent Developments in Rough Paths, Oslo, Norway, March 2024.\nOptimal Control in Energy Markets using Rough Analysis and Deep Networks\nMATH+ Spotlight Talk, Berlin, Germany, January 2024.\n\n\n\n2023\n\nRough PDEs and local stochastic volatility\n\nVolatility is Rough Workshop, Isle of Skye, Scotland, April 2023.\n17th Oxford-Berlin Young Researchers Meeting on Applied Stochastic Analysis, Berlin, Germany, April 2023.\nModern Methods in Applied Stochastics and Nonparametric Statistics, Berlin, Germany, May 2023.\n\nRough PDEs in financial modelling\nSPDE Seminar TU Berlin, Berlin, Germany, November 2023.\nRough path signatures and applications\nWIAS PhD Seminar, Berlin, Germany, October 2023.\nOptimal stopping with signatures\nModern Methods in Applied Stochastics and Nonparametric Statistics, Berlin, Germany, May 2023.\n\n\n\n2022\n\nPolynomial Volterra processes and applications\n\n16th Oxford-Berlin Young Researchers Meeting on Applied Stochastic Analysis, Oxford, United Kingdom, December 2022.\nModern Methods in Applied Stochastics and Nonparametric Statistics, Berlin, Germany, October 2022."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Luca Pelizzari",
+    "section": "",
+    "text": "My name is Luca Pelizzari and I am a postdoctoral researcher in applied mathematics in the group of Christa Cuchiero at the University of Vienna. I obtained my PhD under the supervision of Christian Bayer and Peter Friz at WIAS/TU Berlin.\n\n\nMy research develops mathematical foundations for stochastic models with memory, with applications to mathematical finance and machine learning. I am particularly interested in rough paths and signatures, stochastic Volterra equations, stochastic volatility models, and learning methods for non-Markovian data.\n\n\n Email GitHub Google Scholar CV\n\n\n\n\n\n\n\n\nAll publications\n\n\n\nExpected signatures via partial integration, coordinate change and symmetrization\nwith Paul Hager.\narXiv:2607.29534, August 2026.\nComputational aspects of the Volterra Signature\nwith Paul Hager, Fabian Harang and Samy Tindel.\narXiv:2605.18406, May 2026.\nThe Volterra Signature\nwith Paul Hager, Fabian Harang and Samy Tindel.\narXiv:2603.04525, March 2026."
+  },
+  {
+    "objectID": "index.html#new-preprints",
+    "href": "index.html#new-preprints",
+    "title": "Luca Pelizzari",
+    "section": "",
+    "text": "All publications"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
