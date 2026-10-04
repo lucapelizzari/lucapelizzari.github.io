@@ -1,0 +1,80 @@
+---
+title: "Talks"
+---
+
+## Planned talks
+
+- **Volterra signatures with applications in computational finance**  
+  ICCM 2026, Oxford, UK, **September 1-4**.
+
+## Previous talks
+
+### 2026
+- **The Volterra signature** 
+  - Conference "Path-dependent optimal control and applications in finance and economics", Berlin, Germany, March 2026.
+  - Bachelier World Congress, Bologna, Italy, June 2026.
+
+- **Rough PDEs for local stochastic volatility models**
+  - Annual PREMIA meeting, Paris, France, May 2026.
+
+
+
+### 2025
+
+- **Signature methods for American option pricing**  
+  - SIAM Conference on Financial Mathematics and Engineering, Miami, USA, July 2025. 
+  - Annual PREMIA Meeting, Paris, France, June 2025.
+
+- **Expected signatures for augmented processes**  
+  21st Oxford-Berlin Young Researchers Meeting on Applied Stochastic Analysis, Berlin, Germany, July 2025.
+
+- **The Volterra signature**  
+  - Signatures in 1 and 2 Dimensions, Oslo, Norway, June 2025.
+  - PhD Seminar: Advanced Stochastic Modeling, Vienna, Austria, October 2025.
+
+- **Moments of Volterra processes and signatures**  
+  PhD Seminar: Advanced Stochastic Modeling, Vienna, Austria, May 2025.
+
+
+- **What is rough analysis?**  
+  MATH+ What is...? Seminar, Berlin, Germany, January 2025.
+
+### 2024
+
+- **Non-Markovian optimal stopping with signatures**  
+  - Directions in Rough Analysis, Oberwolfach, Germany, November 2024.
+  - 18th Oxford-Berlin Young Researchers Meeting on Applied Stochastic Analysis, Oxford, United Kingdom, January 2024.
+
+- **Rough path theory for financial modelling**  
+  IRTG Student Seminar, Berlin, Germany, July 2024.
+
+- **Rough PDEs for local stochastic volatility**  
+  -Klagenfurt-Berlin Meeting, Klagenfurt, Austria, June 2024.
+  -Recent Developments in Rough Paths, Oslo, Norway, March 2024.
+
+- **Optimal Control in Energy Markets using Rough Analysis and Deep Networks**  
+  MATH+ Spotlight Talk, Berlin, Germany, January 2024.
+  
+
+### 2023
+
+- **Rough PDEs and local stochastic volatility**  
+  - Volatility is Rough Workshop, Isle of Skye, Scotland, April 2023.
+  - 17th Oxford-Berlin Young Researchers Meeting on Applied Stochastic Analysis, Berlin, Germany, April 2023.
+  - Modern Methods in Applied Stochastics and Nonparametric Statistics, Berlin, Germany, May 2023.
+
+- **Rough PDEs in financial modelling**  
+  SPDE Seminar TU Berlin, Berlin, Germany, November 2023.
+
+- **Rough path signatures and applications**  
+  WIAS PhD Seminar, Berlin, Germany, October 2023.
+
+- **Optimal stopping with signatures**  
+  Modern Methods in Applied Stochastics and Nonparametric Statistics, Berlin, Germany, May 2023.
+
+
+### 2022
+
+- **Polynomial Volterra processes and applications**  
+  - 16th Oxford-Berlin Young Researchers Meeting on Applied Stochastic Analysis, Oxford, United Kingdom, December 2022.
+  - Modern Methods in Applied Stochastics and Nonparametric Statistics, Berlin, Germany, October 2022.

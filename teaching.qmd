@@ -1,0 +1,59 @@
+---
+title: "Teaching"
+---
+
+## Current teaching
+
+### Winter term 2026/27
+
+- **Statistical learning with high-dimensional data**  
+  University of Vienna.  
+  Information for enrolled students: [Moodle](PASTE_MOODLE_LINK_HERE).
+
+## Upcoming teaching
+
+### Summer term 2027
+
+- **Stochastic Analysis**  
+  University of Vienna.  
+
+
+- **Mathematical Optimization**  
+  University of Vienna.  
+  jointly with Anna Kwossek.
+
+## Past teaching
+
+### Summer term 2026
+
+- **UE Wahrscheinlichkeitsrechnung**  
+  University of Vienna.  
+
+### Winter term 2025/26
+
+- **UE Statistik 1**  
+  University of Vienna.  
+
+### Winter term 2024/25
+
+- **Versicherungsmathematik**  
+  University of Vienna.  
+  Teaching assistant; lecturer: Lukas Lüthrath.
+
+### Summer term 2022
+
+- **Probability Theory & Statistics**  
+  ETH Zurich.  
+  Teaching assistant; lecturer: Vincent Tassion.
+
+### Winter term 2021/22
+
+- **Probability Theory**  
+  ETH Zurich.  
+  Teaching assistant; lecturer: Wendelin Werner.
+
+### Winter term 2020/21
+
+- **Lineare Algebra für Naturwissenschaftler**  
+  University of Zurich.  
+  Teaching assistant; lecturer: Jean Bertoin.

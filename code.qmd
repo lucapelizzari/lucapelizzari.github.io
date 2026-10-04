@@ -1,0 +1,75 @@
+---
+title: "Code"
+---
+
+<p class="code-intro">
+Code accompanying my research papers and numerical experiments can be found on
+<a class="inline-github-link" href="https://github.com/lucapelizzari">
+  <i class="fa-brands fa-github"></i> GitHub
+</a>.
+</p>
+
+::: {.code-entry}
+
+<div class="code-entry-header">
+  <h3>Stochastic control with expected signatures</h3>
+  <a class="repo-link" href="https://github.com/lucapelizzari/expected_signature_transforms">
+    <i class="fa-brands fa-github"></i> Repository
+  </a>
+</div>
+
+Implementation of the [expected signature formula via coordinate change](https://arxiv.org/abs/2607.29534). An illustration solving the optimal tracking of fractional Brownian motion is presented.
+
+:::
+
+::: {.code-entry}
+
+<div class="code-entry-header">
+  <h3>Time-series learning with Volterra signatures</h3>
+  <a class="repo-link" href="https://github.com/lucapelizzari/Volterra_signature_learning">
+    <i class="fa-brands fa-github"></i> Repository
+  </a>
+</div>
+
+Regression and classification experiments with real-world data and time-series features built from the [Volterra signature](https://arxiv.org/abs/2603.04525). The code relies on the JAX-based Python package `tensordev`, see <a class="repo-link" href="https://github.com/hagerpa/tensordev"><i class="fa-brands fa-github"></i> tensordev</a>, which implements algorithms from the accompanying technical paper on [computational aspects of the Volterra signature](https://arxiv.org/abs/2605.18406).
+
+:::
+
+::: {.code-entry}
+
+<div class="code-entry-header">
+  <h3>Rough PDEs for European options and Greeks</h3>
+  <a class="repo-link" href="https://github.com/lucapelizzari/European-options-and-Greeks-with-rough-PDEs">
+    <i class="fa-brands fa-github"></i> Repository
+  </a>
+</div>
+
+Code for pricing European options and computing Greeks in general local stochastic volatility models via a finite-difference implementation of the [rough PDE pricing method](https://arxiv.org/abs/2307.09216).
+
+:::
+
+::: {.code-entry}
+
+<div class="code-entry-header">
+  <h3>Optimal stopping with signatures</h3>
+  <a class="repo-link" href="https://github.com/lucapelizzari/Optimal_Stopping_with_signatures">
+    <i class="fa-brands fa-github"></i> Repository
+  </a>
+</div>
+
+Implementation of [primal and dual algorithms](https://arxiv.org/abs/2312.03444) for solving non-Markovian optimal stopping problems with path signatures. The examples include stopping problems for fractional Brownian motion, American option pricing under rough-volatility models such as rough Bergomi and rough Heston, and extensions to [deep and kernel learning](https://arxiv.org/abs/2501.06758).
+
+:::
+
+::: {.code-entry}
+
+<div class="code-entry-header">
+  <h3>Local regression with signatures</h3>
+  <a class="repo-link" href="https://github.com/Davit1123/nw-signature">
+    <i class="fa-brands fa-github"></i> Repository
+  </a>
+</div>
+
+Local kernel regression and classification on path space using [signature-based distances](https://arxiv.org/abs/2510.16728). The repository contains implementations for path-valued regression and classification tasks, including examples for time series, SDE learning, and path-dependent option pricing.
+
+:::

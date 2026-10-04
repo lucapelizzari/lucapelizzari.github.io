@@ -1,0 +1,26 @@
+project:
+  type: website
+  resources:
+    - assets/CV-2.pdf
+
+website:
+  title: "Luca Pelizzari"
+  navbar:
+    right:
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Code"
+        href: code.qmd
+      - text: "CV"
+        href: cv.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    include-in-header:
+      text: |
+        <link rel="stylesheet"
+              href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
