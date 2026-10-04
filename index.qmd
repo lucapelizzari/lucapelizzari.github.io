@@ -9,7 +9,7 @@ page-layout: full
 ::: {.home-text}
 
 <p class="intro-text">
-I am <strong>Luca Pelizzari</strong>,quarto preview a postdoctoral researcher in applied mathematics in the <a href="https://quarimafi.univie.ac.at">group of Christa Cuchiero</a> at the University of Vienna. I obtained my PhD under the supervision of <a href="https://www.wias-berlin.de/people/bayerc/">Christian Bayer</a> and <a href="https://page.math.tu-berlin.de/~friz/">Peter Friz</a> at WIAS and TU Berlin.
+I am <strong>Luca Pelizzari</strong>, a postdoctoral researcher in applied mathematics in the <a href="https://quarimafi.univie.ac.at">group of Christa Cuchiero</a> at the University of Vienna. I obtained my PhD under the supervision of <a href="https://www.wias-berlin.de/people/bayerc/">Christian Bayer</a> and <a href="https://page.math.tu-berlin.de/~friz/">Peter Friz</a> at WIAS and TU Berlin.
 </p>
 
 <p class="intro-text">
