@@ -2,9 +2,15 @@ project:
   type: website
   resources:
     - assets/CV-2.pdf
+project:
+  type: website
+
 
 website:
   title: "Luca Pelizzari"
+  site-url: "https://lucapelizzari.github.io"
+  description: "Personal academic website of Luca Pelizzari, postdoctoral researcher in stochastic analysis, rough paths, signatures, Volterra equations, mathematical finance, and machine learning."
+  search: false
   navbar:
     right:
       - text: "Publications"
