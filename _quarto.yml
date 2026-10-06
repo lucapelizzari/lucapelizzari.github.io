@@ -2,8 +2,7 @@ project:
   type: website
   resources:
     - assets/CV-2.pdf
-project:
-  type: website
+
 
 
 website:
