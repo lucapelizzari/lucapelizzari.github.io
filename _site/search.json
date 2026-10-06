@@ -11,28 +11,28 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Polynomial Volterra processes\nwith Eduardo Abi Jaber, Christa Cuchiero, Sergio Pulido and Sara Svaluto-Ferro.\nElectronic Journal of Probability 29, 1–37.\nPrimal and dual optimal stopping with signatures\nwith Christian Bayer and John Schoenmakers.\nFinance and Stochastics 29(4), 981–1014.\nRough PDEs for local stochastic volatility models\nwith Peter Bank, Christian Bayer and Peter Friz.\nMathematical Finance 35(3), 661–681.\nPricing American options under rough volatility using signatures\nwith Christian Bayer and Jia-Jie Zhu.\nIn Modern Topics in Stochastic Analysis and Applications, in honour of Terry Lyons’ 70th birthday, 375–398.\nLocal regression on path spaces with signature metrics\nwith Christian Bayer and Davit Gogolashvili.\nProceedings of the 29th International Conference on Artificial Intelligence and Statistics."
+    "text": "Polynomial Volterra processes\nwith Eduardo Abi Jaber, Christa Cuchiero, Sergio Pulido and Sara Svaluto-Ferro.\nElectronic Journal of Probability 29, 1–37, 2024.\nPrimal and dual optimal stopping with signatures\nwith Christian Bayer and John Schoenmakers.\nFinance and Stochastics 29(4), 981–1014, 2025.\nRough PDEs for local stochastic volatility models\nwith Peter Bank, Christian Bayer and Peter Friz.\nMathematical Finance 35(3), 661–681, 2025.\nPricing American options under rough volatility using signatures\nwith Christian Bayer and Jia-Jie Zhu.\nIn Modern Topics in Stochastic Analysis and Applications, in honour of Terry Lyons’ 70th birthday, 375–398, 2025.\nLocal regression on path spaces with signature metrics\nwith Christian Bayer and Davit Gogolashvili.\nProceedings of the 29th International Conference on Artificial Intelligence and Statistics, 2026."
   },
   {
     "objectID": "publications.html#published-and-accepted-papers",
     "href": "publications.html#published-and-accepted-papers",
     "title": "Publications",
     "section": "",
-    "text": "Polynomial Volterra processes\nwith Eduardo Abi Jaber, Christa Cuchiero, Sergio Pulido and Sara Svaluto-Ferro.\nElectronic Journal of Probability 29, 1–37.\nPrimal and dual optimal stopping with signatures\nwith Christian Bayer and John Schoenmakers.\nFinance and Stochastics 29(4), 981–1014.\nRough PDEs for local stochastic volatility models\nwith Peter Bank, Christian Bayer and Peter Friz.\nMathematical Finance 35(3), 661–681.\nPricing American options under rough volatility using signatures\nwith Christian Bayer and Jia-Jie Zhu.\nIn Modern Topics in Stochastic Analysis and Applications, in honour of Terry Lyons’ 70th birthday, 375–398.\nLocal regression on path spaces with signature metrics\nwith Christian Bayer and Davit Gogolashvili.\nProceedings of the 29th International Conference on Artificial Intelligence and Statistics."
+    "text": "Polynomial Volterra processes\nwith Eduardo Abi Jaber, Christa Cuchiero, Sergio Pulido and Sara Svaluto-Ferro.\nElectronic Journal of Probability 29, 1–37, 2024.\nPrimal and dual optimal stopping with signatures\nwith Christian Bayer and John Schoenmakers.\nFinance and Stochastics 29(4), 981–1014, 2025.\nRough PDEs for local stochastic volatility models\nwith Peter Bank, Christian Bayer and Peter Friz.\nMathematical Finance 35(3), 661–681, 2025.\nPricing American options under rough volatility using signatures\nwith Christian Bayer and Jia-Jie Zhu.\nIn Modern Topics in Stochastic Analysis and Applications, in honour of Terry Lyons’ 70th birthday, 375–398, 2025.\nLocal regression on path spaces with signature metrics\nwith Christian Bayer and Davit Gogolashvili.\nProceedings of the 29th International Conference on Artificial Intelligence and Statistics, 2026."
   },
   {
     "objectID": "publications.html#preprints",
     "href": "publications.html#preprints",
     "title": "Publications",
     "section": "Preprints",
-    "text": "Preprints\n\nExpected signatures via partial integration, coordinate change and symmetrization\nwith Paul Hager.\narXiv:2607.29534.\nThe Volterra Signature\nwith Paul Hager, Fabian Harang and Samy Tindel.\narXiv:2603.04525.\nComputational aspects of the Volterra Signature\nwith Paul Hager, Fabian Harang and Samy Tindel.\narXiv:2605.18406."
+    "text": "Preprints\n\nExpected signatures via partial integration, coordinate change and symmetrization\nwith Paul Hager.\narXiv:2607.29534, 2026.\nThe Volterra Signature\nwith Paul Hager, Fabian Harang and Samy Tindel.\narXiv:2603.04525, 2026.\nComputational aspects of the Volterra Signature\nwith Paul Hager, Fabian Harang and Samy Tindel.\narXiv:2605.18406, 2026."
   },
   {
     "objectID": "publications.html#phd-thesis",
     "href": "publications.html#phd-thesis",
     "title": "Publications",
     "section": "PhD thesis",
-    "text": "PhD thesis\n\nTopics in rough and stochastic analysis with applications in finance\nsupervised by Christian Bayer and Peter Friz."
+    "text": "PhD thesis\n\nTopics in rough and stochastic analysis with applications in finance\nsupervised by Christian Bayer and Peter Friz, 2025."
   },
   {
     "objectID": "code.html",
@@ -95,7 +95,7 @@
     "href": "index.html",
     "title": "Luca Pelizzari",
     "section": "",
-    "text": "I am Luca Pelizzari, a postdoctoral researcher in applied mathematics in the group of Christa Cuchiero at the University of Vienna. I obtained my PhD under the supervision of Christian Bayer and Peter Friz at WIAS and TU Berlin.\n\n\nMy research develops mathematical foundations for stochastic models with memory, with applications to mathematical finance and machine learning. I am particularly interested in rough paths and signatures, stochastic Volterra equations, stochastic volatility models, and learning methods for non-Markovian data.\n\n\n Email GitHub Google Scholar CV\n\n\n\n\n\n\n\n\nAll publications\n\n\n\nExpected signatures via partial integration, coordinate change and symmetrization\nwith Paul Hager.\narXiv:2607.29534, August 2026.\nComputational aspects of the Volterra Signature\nwith Paul Hager, Fabian Harang and Samy Tindel.\narXiv:2605.18406, May 2026.\nThe Volterra Signature\nwith Paul Hager, Fabian Harang and Samy Tindel.\narXiv:2603.04525, March 2026."
+    "text": "I am Luca Pelizzari, a postdoctoral researcher in applied mathematics in the group of Christa Cuchiero at the University of Vienna. I obtained my PhD in 2025 under the supervision of Christian Bayer and Peter Friz at WIAS and TU Berlin.\n\n\nMy research develops mathematical foundations for stochastic models with memory, with applications to mathematical finance and machine learning. I am particularly interested in rough paths and signatures, stochastic Volterra equations, stochastic volatility models, and learning methods for non-Markovian data.\n\n\n Email GitHub Google Scholar CV\n\n\n\n\n\n\n\n\nAll publications\n\n\n\nExpected signatures via partial integration, coordinate change and symmetrization\nwith Paul Hager.\narXiv:2607.29534, August 2026.\nComputational aspects of the Volterra Signature\nwith Paul Hager, Fabian Harang and Samy Tindel.\narXiv:2605.18406, May 2026.\nThe Volterra Signature\nwith Paul Hager, Fabian Harang and Samy Tindel.\narXiv:2603.04525, March 2026."
   },
   {
     "objectID": "index.html#new-preprints",
