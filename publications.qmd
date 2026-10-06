@@ -6,39 +6,39 @@ title: "Publications"
 
 - **[Polynomial Volterra processes](https://projecteuclid.org/journals/electronic-journal-of-probability/volume-29/issue-none/Polynomial-Volterra-processes/10.1214/24-EJP1234.full)**  
   with Eduardo Abi Jaber, Christa Cuchiero, Sergio Pulido and Sara Svaluto-Ferro.  
-  *Electronic Journal of Probability* **29**, 1–37.
+  *Electronic Journal of Probability* **29**, 1–37, 2024.
 
 - **[Primal and dual optimal stopping with signatures](https://link.springer.com/article/10.1007/s00780-025-00570-8)**  
   with Christian Bayer and John Schoenmakers.  
-  *Finance and Stochastics* **29**(4), 981–1014.
+  *Finance and Stochastics* **29**(4), 981–1014, 2025.
 
 - **[Rough PDEs for local stochastic volatility models](https://onlinelibrary.wiley.com/doi/full/10.1111/mafi.12458)**  
   with Peter Bank, Christian Bayer and Peter Friz.  
-  *Mathematical Finance* **35**(3), 661–681.
+  *Mathematical Finance* **35**(3), 661–681, 2025.
 
 - **[Pricing American options under rough volatility using signatures](https://link.springer.com/chapter/10.1007/978-3-032-03914-9_13)**  
   with Christian Bayer and Jia-Jie Zhu.  
-  In *Modern Topics in Stochastic Analysis and Applications*, in honour of Terry Lyons’ 70th birthday, 375–398.
+  In *Modern Topics in Stochastic Analysis and Applications*, in honour of Terry Lyons’ 70th birthday, 375–398, 2025.
 
 - **[Local regression on path spaces with signature metrics](https://arxiv.org/abs/2510.16728)**  
   with Christian Bayer and Davit Gogolashvili.  
-  *Proceedings of the 29th International Conference on Artificial Intelligence and Statistics*.
+  *Proceedings of the 29th International Conference on Artificial Intelligence and Statistics*, 2026.
 
 ## Preprints
 
 - **[Expected signatures via partial integration, coordinate change and symmetrization](https://arxiv.org/abs/2607.29534)**  
   with Paul Hager.  
-  arXiv:2607.29534.
+  arXiv:2607.29534, 2026.
 
 - **[The Volterra Signature](https://arxiv.org/abs/2603.04525)**  
   with Paul Hager, Fabian Harang and Samy Tindel.  
-  arXiv:2603.04525.
+  arXiv:2603.04525, 2026.
 
 - **[Computational aspects of the Volterra Signature](https://arxiv.org/abs/2605.18406)**  
   with Paul Hager, Fabian Harang and Samy Tindel.  
-  arXiv:2605.18406.
+  arXiv:2605.18406, 2026.
 
 ## PhD thesis
 
 - **[Topics in rough and stochastic analysis with applications in finance](https://depositonce.tu-berlin.de/items/29620955-92c0-40ce-a9e6-f6c2713693b8)**  
-  supervised by Christian Bayer and Peter Friz.
+  supervised by Christian Bayer and Peter Friz, 2025.
