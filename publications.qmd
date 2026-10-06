@@ -1,7 +1,6 @@
 
 ---
 title: "Publications"
-description: "Publications and preprints by Luca Pelizzari on stochastic analysis, rough paths, signatures, Volterra equations, stochastic volatility, and mathematical finance."
 ---
 
 ## Published and accepted papers
