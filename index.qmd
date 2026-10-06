@@ -1,5 +1,7 @@
 ---
 page-layout: full
+title: Luca Pelizzari
+description: "Luca Pelizzari is a postdoctoral researcher in applied mathematics at the University of Vienna, working on stochastic analysis, rough paths, signatures, Volterra equations, mathematical finance, and machine learning."
 ---
 
 ::: {.home-container}
