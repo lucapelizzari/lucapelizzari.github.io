@@ -28,8 +28,8 @@ title: "Publications"
 ## Preprints
 - **[Stochastic Taylor expansions for Volterra equations and their geometry](https://arxiv.org/abs/2611.33047)**  
   with Christa Cuchiero, Paul Hager and Julian Pachschwöll.  
-  arXiv:2611.33047, November 2026.
-  
+  arXiv:2611.33047, 2026.
+
 - **[Expected signatures via partial integration, coordinate change and symmetrization](https://arxiv.org/abs/2607.29534)**  
   with Paul Hager.  
   arXiv:2607.29534, 2026.
