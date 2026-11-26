@@ -39,18 +39,10 @@ My research develops mathematical foundations for stochastic models with memory,
 
 - **[Stochastic Taylor expansions for Volterra equations and their geometry](https://arxiv.org/abs/2611.33047)**  
   with Christa Cuchiero, Paul Hager and Julian Pachschwöll.  
-  arXiv:2611.33047, Novemeber 2026.
+  arXiv:2611.33047, November 2026.
 
 - **[Expected signatures via partial integration, coordinate change and symmetrization](https://arxiv.org/abs/2607.29534)**  
   with Paul Hager.  
   arXiv:2607.29534, August 2026.
-
-- **[Computational aspects of the Volterra Signature](https://arxiv.org/abs/2605.18406)**  
-  with Paul Hager, Fabian Harang and Samy Tindel.  
-  arXiv:2605.18406, May 2026.
-
-- **[The Volterra Signature](https://arxiv.org/abs/2603.04525)**  
-  with Paul Hager, Fabian Harang and Samy Tindel.  
-  arXiv:2603.04525, March 2026.
 
 :::
